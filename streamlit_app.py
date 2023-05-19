@@ -7,6 +7,7 @@ from fuzzywuzzy import fuzz , process
 import streamlit as st
 import webbrowser
 import click
+import typer
 
 # Give the key
 # openai.api_key = OPENAI_API_KEY
