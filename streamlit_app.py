@@ -6,6 +6,7 @@ import spacy
 from fuzzywuzzy import fuzz , process
 import streamlit as st
 import webbrowser
+import click
 
 # Give the key
 openai.api_key = "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"
