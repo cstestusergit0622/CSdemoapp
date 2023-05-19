@@ -5,3 +5,4 @@ fuzzywuzzy==0.18.0
 streamlit==1.11.1
 openpyxl==3.0.7
 spacy==3.5.3
+en_core_web_sm==3.5.0
