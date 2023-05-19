@@ -1,7 +1,7 @@
 pandas==1.4.4
 numpy==1.22.4
 openai==0.27.2
-spacy==3.0.0
 fuzzywuzzy==0.18.0
 streamlit==1.11.1
 openpyxl==3.0.7
+spacy==3.5.3
