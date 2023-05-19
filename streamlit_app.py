@@ -6,6 +6,9 @@ import openai
 #from fuzzywuzzy import fuzz , process
 import streamlit as st
 import webbrowser
+import os
+import typer
+import click
 
 # Give the key
 openai.api_key = os.environ.get('OPENAI_API_KEY')
