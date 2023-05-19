@@ -4,3 +4,4 @@ openai
 spacy
 fuzzywuzzy
 streamlit
+openpyxl
