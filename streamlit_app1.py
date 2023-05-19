@@ -8,6 +8,7 @@ import streamlit as st
 import webbrowser
 import click
 import typer
+import os
 
 # Give the key
 # openai.api_key = OPENAI_API_KEY
