@@ -12,8 +12,7 @@ import os
 
 # Give the key
 # openai.api_key = OPENAI_API_KEY
-openai.api_key = os.environ.get('OPENAI_API_KEY')
-
+openai.api_key =  st.secrets["OPENAI_API_KEY"]
 
 # Import data
 about_df = pd.read_excel("AboutCornerShop.xlsx")
