@@ -5,3 +5,4 @@ spacy==3.0.0
 fuzzywuzzy==0.18.0
 streamlit==1.11.1
 openpyxl==3.0.7
+click==7.1.2
