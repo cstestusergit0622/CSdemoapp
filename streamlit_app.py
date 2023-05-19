@@ -9,7 +9,8 @@ import webbrowser
 import click
 
 # Give the key
-openai.api_key = OPENAI_API_KEY
+# openai.api_key = OPENAI_API_KEY
+openai.api_key = os.environ.get('OPENAI_API_KEY')
 
 
 # Import data
