@@ -4,4 +4,5 @@ openai==0.27.2
 fuzzywuzzy==0.18.0
 streamlit==1.11.1
 openpyxl==3.0.7
-spacy==3.5.3
+spacy>=3.0.0,<4.0.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
